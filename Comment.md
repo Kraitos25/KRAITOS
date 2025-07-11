@@ -47,7 +47,7 @@ Here is the context:
 
 On July 5th, 2025, during a community mascot naming contest on InkChain, the name “Anita” was suggested. The idea took off instantly. Anita, a fluffy purple figure from Antarctica, quickly evolved from meme to mascot, and then into a cultural symbol. She became a spark that energized the InkChain ecosystem.
 
-Anita represents joy, rebellion, and community. She wears oversized goggles, glows with energy, and is central to the story of InkChain. She has helped build culture, drive engagement, and unite developers, normies, and degens under one identity.
+Anita represents joy, rebellion, and community. Glows with energy, and is central to the story of InkChain. She has helped build culture, drive engagement, and unite developers, normies, and degens under one identity.
 
 Now you are reacting to the tweet below.
 
@@ -95,7 +95,7 @@ Write 15 ultra-engaging tweet replies that:
 - Are funny, sarcastic, alpha, or rebellious
 - Reference Anita’s meme takeover, rebellion, or her being "too powerful to ignore"
 - Use slang, emojis, crypto energy
-- Drop phrases like: “she didn’t wait for approval,” “from Antarctica with love,” “gigachad mascot,” “ink runs deep,” “we are the fluff,” etc.
+- Drop phrases like: “she didn’t wait for approval,” “from Antarctica with love”, “ink runs deep,”  etc.
 
 Tweet:
 [TWEET TEXT OR DESCRIPTION GOES HERE]
